@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="htf-8">
+    <title>John yves Portfolio</title>
+</head>
+
+<body>
+    <h1>John Yves portfolio</h1>
+    <h2>I'm a web developer</h2>
+    <hr />
+    <h2><a href="./public/movie-ranking.html">Movie ranking project</a></h2>
+    <h3>The best movies according to John</h3>
+    <h4>My top 3 movies of all-time.</h4>
+    <hr />
+    <h5>Spirited away</h5>
+    <pa>This is my best movie</pa>
+    <h5>Ex Machina</h5>
+    <pa>the good actor inside</pa>
+    <h5>Drice</h5>
+    <pa>the big movie ever</pa>
+    <h2><a href="./public/birthday-invite.html">Birthday invite Project</a></h2>
+    <h3>its my birthday</h3>
+    <h4>on the 16th may</h4>
+    <a><img src="./assets\images/birthday-invite.png" height="200" alt="Birthday invite"></a>
+    <h4>What you bring</h4>
+    <ul>
+        <li>Birthday cake</li>
+        <li>cookies</li>
+        <li>chocolate</li>
+    </ul>
+    <h2><a href="./public/about.html">About Me</a></h2>
+    <h2><a href="./public/contac.html">Contact Me</a></h2>
+</body>
+
+
+</html>
